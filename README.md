@@ -1,6 +1,7 @@
-# Python Test-Driven Development Template
+# ps2k
 
-This is a simple template that can be used for Python TDD projects.
+ps2k (pass to Keychain) is a tool that adds your passwords stored in
+[pass](https://www.passwordstore.org/) to Apple's Keychain.
 
 ## Git Hooks
 
